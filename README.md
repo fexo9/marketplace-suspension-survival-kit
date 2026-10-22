@@ -34,6 +34,7 @@ Real public seller accounts — an October 2026 post about a shop (20 sales / 67
 
 - Getly: `https://www.getly.store/product/marketplace-suspension-survival-kit`
 - SellApp (USDT): `https://digitaltoolkitstore.sell.app/product/marketplace-suspension-survival-kit`
+- Watch the demo: `https://www.youtube.com/watch?v=WrYqcoPHxQ4`
 
 *(URLs follow store convention — verified at publish.)*
 
